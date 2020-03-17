@@ -1,0 +1,5 @@
+
+  
+<project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-8.0.1" name="milouk/Gcc-Uber-Prebuilts" remote="github" revision="uber-8.0.1" />
+<project path="prebuilts/gcc/linux-x86/aarch64/aarch64-elf" name="kdrag0n/aarch64-elf-gcc" remote="github" revision="9.x" />
+<project path="prebuilts/clang/host/linux-x86/clang-11" name="Jprimero15/lolz_clang" remote="github" revision="clang-11.0.0" />
